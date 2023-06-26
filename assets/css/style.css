@@ -171,6 +171,7 @@ body{
   z-index: 2;
   transition: 0.25s var(--cubic-out);
   visibility: hidden;
+  height: 100%;
 }
 
 .navbar.active{
